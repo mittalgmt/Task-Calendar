@@ -1,4 +1,4 @@
-In this Task Calendar:-
--- It save the task 
--- Load every task.
+In this Task Calendar:-\n
+-- It save the task \n
+-- Load every task.\n
 -- Update the pdf every time we add or complted the task.
